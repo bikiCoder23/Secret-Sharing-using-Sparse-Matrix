@@ -12,7 +12,7 @@ To try my algorithm, clone the python file *secret_sharing.py* follow the steps 
          n is the length of the input binary string and can be of any possible length.
 6. These equated values can be shared to reciever using any kind of unsecured channel since this data can't be interpreted by the attacker/hacker.
 7. The sender will have to send the key which consists of only a single number, i.e, r to the reciever via secured channel, so that the reciever will have the key pair of (n, r).
-8. The reciever will subsequently generate a series from `r` to `n+r` and feed the number series along with the recieved values to a Lagrange Interpolation Calculator to re-generate the chromatic polynomial.
+8. The reciever will subsequently generate a series from `r` to `n+r` and feed the number series along with the recieved values to a Lagrange Interpolation Calculator for example, [AtoZmath](https://atozmath.com/CONM/NumeInterPola.aspx?q=LI), to re-generate the chromatic polynomial.
 9. Now take the coefficient of the chromatic polynomial and enter it into the program such that it will regenerate input binary string/original message from the sender in the reciever's end.
 
 *Any Feedback is much appreciated!!*

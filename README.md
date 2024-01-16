@@ -18,5 +18,5 @@ To try my algorithm, clone the python file *secret_sharing.py* follow the steps 
 *Any Feedback is much appreciated!!*
 
 ### Contact Me
-Mailto: bikramjit2001vibgyor@gmail.com                                                                                                                      
-LinkedIn: www.linkedin.com/in/bikramjit-saha-569a8720a
+[Mail](bikramjit2001vibgyor@gmail.com)                                                                                                                      
+[LinkedIn](www.linkedin.com/in/bikramjit-saha-569a8720a)

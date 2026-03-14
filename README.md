@@ -1,6 +1,16 @@
 # Secret-Sharing-using-Sparse-Matrix
 This is an implementation of a secure mode of data (in bits) transmission using sparse matrix under the field of Information Security, my project for Summer Research Internship program at Jadavpur University under **Dr. Bibhas Chandra Dhara**.
 
+## Functionality
+### Encryption Process:
+-Converts alphabets into bit representation based on ASCII values.                                                                                                                                                                                                                                    
+-Generates a sequence of random numbers for each alphabet of the message from its respective Sparse-Matrix representation.
+
+### Decryption Process:
+-Random values can be decrypted using Lagrange interpolation at the receiver's end using a key.                                                                                                                                                                                                         
+-Sender sends the key 'r' which can be any integer, via secured channel of communication.
+
+
 ## Procedure
 To try my algorithm, clone the python file *secret_sharing.py* follow the steps sequentially:
 1. Open the file with any python friendly code editor for example vscode, pycharm, jupyter notebook, etc.
@@ -19,4 +29,4 @@ To try my algorithm, clone the python file *secret_sharing.py* follow the steps 
 
 ### Contact Me
 [Mail](bikramjit2001vibgyor@gmail.com)                                                                                                                      
-[LinkedIn](www.linkedin.com/in/bikramjit-saha-569a8720a)
+[LinkedIn](www.linkedin.com/in/bikramjit-saha-pwc)
